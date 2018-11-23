@@ -1,8 +1,3 @@
-
-Teratomo Support <bkarlo@teratomo.com>
-10:33 AM (7 minutes ago)
-to kemuel.s
-
 create external table bike_data (
     bike_date string,
     season int,
