@@ -15,6 +15,9 @@ Virtual Machine with at least 12GB of RAM and Video Memory of at least 16MB.
 Install Cloudera Quickstart VM 
 (https://www.cloudera.com/downloads/quickstart_vms/5-13.html)
 
+Configure and activate Cloudera Manager Enterprise 
+(https://github.com/JMYourPhD/bigdatalab/blob/master/01-Setup/Startup.MD)
+
 --USE CASE--
 1. Can be used as a model for Philippine Setting for business senders, theme parks, and subdivisions to combat traffic.
 2. Can be a reference model for Angkas and other start-up companies for bike sharing.
@@ -24,9 +27,6 @@ Install Cloudera Quickstart VM
 2. User Counts
 3. Hourly Data
 4. Working and Non-Working days
-
-Configure and activate Cloudera Manager Enterprise 
-(https://github.com/JMYourPhD/bigdatalab/blob/master/01-Setup/Startup.MD)
 
 Download Bike Share Data
 (https://data.world/data-society/capital-bikeshare-2011-2012)
