@@ -29,7 +29,7 @@ Match your query output to expected output in '2 Output'
 
 --CONTRIBUTORS--
 Celine Reyes
-Karlo Bonayon
+Claricel Yuvienco
 Jan Miles Co
+Karlo Bonayon
 Kemuel Songco
-Alei 
