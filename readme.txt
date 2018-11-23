@@ -4,7 +4,7 @@
 2 Output
 
 --INTRODUCTION--
-BigDataOnWheels is a simple analytics project that uses Bike Share Data in Washington D.C. to assess whether Bike Share can be used as an eco-friendly and speedy means of transaportation in Metro Manila.
+BigDataOnWheels is a simple analytics project that uses Bike Share Data in Washington D.C. to assess whether Bike Share can be used as an eco-friendly and speedy means of transportation in Metro Manila.
 
 This projects serves as simple exercise to practice a use case implemented in HDFS and Hive.
 
