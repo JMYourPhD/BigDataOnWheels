@@ -1,0 +1,6 @@
+select bike_data.bike_hour,
+avg(total_users)
+from bike_data
+where season = 2
+and working_day = 0
+group by bike_data.bike_hour
