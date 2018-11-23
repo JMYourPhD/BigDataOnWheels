@@ -1,0 +1,5 @@
+[create directory for bike data]
+hadoop fs -mkdir /user/cloudera/bike
+
+[copy bike_data.csv from local to hdfs]
+hadoop fs -copyFromLocal ~/Downloads/bike_data.csv /user/cloudera/bike

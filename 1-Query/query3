@@ -1,0 +1,25 @@
+select 
+
+
+'Non-Working' Working_dyFlg,
+
+sum(bike_data.total_users) total_usr,
+
+avg(bike_data.total_users) avg_usr
+
+from bike_data
+
+where bike_data.season = 2 and working_day = 0
+
+union all
+select 
+'Working' Working_dyFlg,
+sum(bike_data.total_users) total_usr,
+
+avg(bike_data.total_users) avg_usr
+
+from bike_data
+
+where bike_data.season = 2
+and working_day = 1
+
