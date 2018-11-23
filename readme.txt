@@ -1,5 +1,5 @@
 --CONTENTS OF THIS FILE--
-0 Ingestion Script
+0 Ingestion
 1 Query
 2 Output
 
@@ -31,7 +31,7 @@ Configure and activate Cloudera Manager Enterprise
 Download Bike Share Data
 (https://data.world/data-society/capital-bikeshare-2011-2012)
 
-Ingest Bike Share Data using files in '0 Ingestion Script'
+Ingest Bike Share Data using files in '0 Ingestion'
 
 Run queries using files in '1 Query'
 
