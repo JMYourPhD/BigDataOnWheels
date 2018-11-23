@@ -43,3 +43,10 @@ Claricel Yuvienco
 Jan Miles Co
 Karlo Bonayon
 Kemuel Songco
+
+--RECOMMENDATION FOR DATA IMPROVEMENT--
+
+  - inclusion of distance traveled
+  - area coverage of each bikeshare system
+
+
