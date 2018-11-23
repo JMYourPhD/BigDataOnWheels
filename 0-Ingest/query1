@@ -1,0 +1,58 @@
+ select 
+
+bike_data.season,
+
+
+-- bike_data.holiday,
+
+-- 'Non-Working' working_day_flag,
+
+-- sum(bike_data.casual_users) casual_usr,
+
+-- sum(bike_data.registered_users) registered_usr,
+
+sum(bike_data.total_users) total_usr
+
+-- avg(bike_data.casual_users) avg_casual_usr,
+
+-- avg(bike_data.registered_users) avg_registered_usr,
+
+-- avg(bike_data.total_users) avg_usr
+
+from bike_data
+
+-- where bike_data.working_day = 0
+
+GROUP by bike_data.season
+
+Order by bike_data.season
+
+-- UNION ALL
+
+-- select 
+
+-- -- bike_data.season,
+
+-- bike_data.holiday,
+
+-- 'Working Day' working_day_flag,
+
+-- sum(bike_data.casual_users) casual_usr,
+
+-- sum(bike_data.registered_users) registered_usr,
+
+-- sum(bike_data.total_users) total_usr,
+
+-- avg(bike_data.casual_users) avg_casual_usr,
+
+-- avg(bike_data.registered_users) avg_registered_usr,
+
+-- avg(bike_data.total_users) avg_usr
+
+-- from bike_data
+
+-- where bike_data.working_day = 1
+
+-- GROUP by bike_data.season, bike_data.holiday, working_day_flag
+
+-- Order by bike_data.season, bike_data.holiday, working_day_flag
